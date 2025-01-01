@@ -13,6 +13,7 @@ Move the executable and repository files to `/usr/local/bin`:
 ```sh
 sudo mv make-cli /usr/local/bin/
 ```
+> `make-cli` as in the folder that git has initialized, not the executable.
 
 ## Features
 
