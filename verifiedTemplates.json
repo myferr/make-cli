@@ -1,0 +1,14 @@
+{
+  "templates": [
+    {
+      "templateName": "example",
+      "files": [
+        {
+          "fileName": "app",
+          "extension": "js",
+          "content": "console.log('Hello, World!');"
+        }
+      ]
+    }
+  ]
+}
