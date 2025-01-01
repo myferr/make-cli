@@ -4,12 +4,11 @@
 
 You can download the latest version of `make-cli` from the [Releases](https://github.com/myferr/make-cli/releases) tab on the GitHub repository. Follow these steps:
 
-1. Go to the [Releases](https://github.com/myferr/make-cli/releases) page.
-2. Download the appropriate version for your operating system.
-3. Extract the downloaded file.
-4. Move the `make-cli` executable to a directory that is in your system's PATH.
+1. Install and check if you have Git.
+2. Execute the following command: `git clone https://github.com/myferr/make-cli/`
+4. Move the `make-cli` executable and repository files to a directory that is in your system's PATH.
 
-Move the executable to `/usr/local/bin`:
+Move the executable and repository files to `/usr/local/bin`:
 
 ```sh
 sudo mv make-cli /usr/local/bin/
